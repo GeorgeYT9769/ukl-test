@@ -1,0 +1,31 @@
+body {
+    background-color: #252525;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 1200px 0 0; /* Add some space from the top */
+  }
+  
+  h1{
+    color: #fff;
+    font-size: 4.5rem;
+    margin-bottom: 100px;
+    background-color: grey;
+    border-radius: 20px;
+  }
+
+  .wrapper {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  img {
+    margin-bottom: 30px;
+  }
+  p {
+    font-size: 2rem;
+  }
